@@ -1,0 +1,20 @@
+import React from "react";
+import GitHubCalendar from "react-github-calendar";
+import { Row } from "react-bootstrap";
+
+import CalendarHeatmap from 'react-calendar-heatmap';
+import 'react-calendar-heatmap/dist/styles.css';
+
+function Github() {
+  return (
+    <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+      <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
+      </h1>
+      
+
+      
+    </Row>
+  );
+}
+
+export default Github;
