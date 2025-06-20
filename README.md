@@ -5,8 +5,7 @@ This is my personal portfolio website to showcase my skills, projects, resume, a
 
 ## 🌐 Live Demo
 
-[🔗 Visit Portfolio Website](http://localhost:3030/) *(Replace with your actual link)*
-
+https://shashanksuryawanshi.netlify.app/
 ---
 
 ## 🚀 Tech Stack
